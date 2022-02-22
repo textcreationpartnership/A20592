@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fight at sea famously fought by the Dolphin of London against fiue of the Turkes men of warre, and a satty the 12. of Ianuary last 1616. being all vessells of great burthen, and strongly mand. Wherein is shewed the noble worth and braue resolution of our English nation. Written and set forth by one of the same voyage, that was then present and an eye witnes to all the proceedings.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20592</idno>
+            <idno type="STC">STC 6993</idno>
+            <idno type="STC">ESTC S117126</idno>
+            <idno type="EEBO-CITATION">99852341</idno>
+            <idno type="PROQUEST">99852341</idno>
+            <idno type="VID">17657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17657)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1135:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fight at sea famously fought by the Dolphin of London against fiue of the Turkes men of warre, and a satty the 12. of Ianuary last 1616. being all vessells of great burthen, and strongly mand. Wherein is shewed the noble worth and braue resolution of our English nation. Written and set forth by one of the same voyage, that was then present and an eye witnes to all the proceedings.</title>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[By G. Eld] for Henry Gosson, dwelling vpon London Bridge,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1617.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Answered by Taylor, John.  The Dolphins danger (STC 23748.5).</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:17657:1" rendition="simple:additions"/>
+            <pb facs="tcp:17657:1" rendition="simple:additions"/>
+            <p>A Fight at Sea, Famouſly fought by the <hi>Dolphin</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don againſt fiue of the Turkes Men of</hi> Warre, and a Satty the 12. of Ianuary laſt 1616. being all Veſſells of great Burthen, and <hi>ſtrongly mand.</hi>
+            </p>
+            <p>Wherein is ſhewed the noble Worth and braue Reſo<g ref="char:EOLhyphen"/>lution of our Engliſh Nation.</p>
+            <p>
+               <hi>Written and ſet forth by one of the ſame Voyage, that was then</hi> preſent and an eye witnes to all the proceedings.</p>
+            <figure>
+               <figDesc>depiction of ship</figDesc>
+            </figure>
+            <p>Printed at London for <hi>Henry Goſſon,</hi> dwelling vpon London Bridge. 1617.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:17657:2"/>
+            <p>
+               <figure>
+                  <figDesc>two warships engaged in battle</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:17657:2"/>
+            <head>A Fight at Sea.</head>
+            <head type="sub">Famouſly fought by the <hi>Dolphin</hi> of Lon<g ref="char:EOLhyphen"/>don, againſt fiue of the Turkes men of Warre.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Magnanimity and worthy reſolution of this our Engliſh nation, from time to time indureth the true touch and tryalls of the <hi>Sea</hi> in deepe extre<g ref="char:EOLhyphen"/>mity: whereby other Countryes (not only admires thereat, but ties to the ſame a diſer<g ref="char:EOLhyphen"/>ued commendation:) Amongſt many o<g ref="char:EOLhyphen"/>ther ſuch like Aduentures, I am imboldened to commit to your cenſure the Accidents of this our late voyage and returne from Zant into <hi>England,</hi> which happened as heere fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>Hauing at Zant, at the end of this laſt yeare finiſhed our buſines, and laden our Ship for England, being named the <hi>Dolphin</hi>
+               <pb facs="tcp:17657:3"/>of London, of the burthen of foureteene ſcore Tun or there about, hauing in the ſame ſome 19. pieces of Ordinance, and 9. Mur<g ref="char:EOLhyphen"/>therers, Manned with 36. Men, and two Boyes, the Maiſter thereof one M<hi rend="sup">r</hi>. <hi>Nichols,</hi> a man of much skill, and proued experi<g ref="char:EOLhyphen"/>ence; who making for England, wee came from Zant the firſt of Ianuary 1616. the winde beeing North and by Eaſt, when with a proſperous gale, by the eyght day in the morning wee had ſight of the Hand of Sardaine, the wind beeing then come weſterly, the ninth, in the morning, wee ſtood in for <hi>Callery,</hi> and at noone the winde being Southerly we came cloſe by the Tow<g ref="char:EOLhyphen"/>ers, where ſome two Leagues off wee made the fight, which day at night the wind grow<g ref="char:EOLhyphen"/>ing calme, we ſayled towards the Cape, the tenth day wee had very little winde or none at all, till it was two of the clock in the after<g ref="char:EOLhyphen"/>noone, which draue vs ſome 3. Leagues eaſtward from the Cape Pola: where we eſ<g ref="char:EOLhyphen"/>pied a Fleet of Ships vpon the maine of <hi>Ser<g ref="char:EOLhyphen"/>dine,</hi> neer vnto a Road called <hi>Callery,</hi> belon<g ref="char:EOLhyphen"/>ging
+<pb facs="tcp:17657:3"/>to the King of Spaine, being the 12. of <hi>Ianuary,</hi> on which day in the mornings watch, about foure of the clock, we had ſight of a Saile making from the Shore towards vs, which draue into our minds ſome doubt and feare, and comming neere vnto vs wee eſpied it to be a Sattie, which is a Ship much like vnto an Argoſey, of a very great bur<g ref="char:EOLhyphen"/>then and bignes, which perceiuing, we ima<g ref="char:EOLhyphen"/>gined ſome more Shippes not to bee far off, whervpon our Maiſter ſent one of our com<g ref="char:EOLhyphen"/>pany vp into the maine top, where he diſco<g ref="char:EOLhyphen"/>uered fiue Sayle of Ships one after another, comming vp before the winde, being then at Weſt, South weſt, who in a proſpect glaſſe perceiued them to bee the Turkes Men of Warre: The firſt of them booning by him<g ref="char:EOLhyphen"/>ſelfe before the winde, with his Fagge in the maine top, and all is ſailes gallantly ſpred a<g ref="char:EOLhyphen"/>broad, after him came the Admirall and the Vice-Admirall, and after them two more, the Reare-Admirall and his fellow, beeing fiue in number, all well prepared for any deſperate aſſault, whervpon, we immediatly
+<pb facs="tcp:17657:4"/>made ready our Ordinance and ſmall ſhot, and with no little reſolution prepared our ſelues to withſtand them, which being done, wee went to prayer, and ſo to dinner, where our Maſter gaue vs ſuch noble incourage<g ref="char:EOLhyphen"/>ment, that our hearts euer thirſted to proue the ſucceſſe, and beeing in readines for the fight, our Maſter went vppon the Poope, and waued his ſword three times, ſhaking it with ſuch dauntles courage as if hee had al<g ref="char:EOLhyphen"/>ready won the victory, this being done we ſeconded him with like forwardnes, where<g ref="char:EOLhyphen"/>vppon hee cauſed his Trumpets to ſound, which gaue vnto vs much more encourage<g ref="char:EOLhyphen"/>ment then before, and being within ſhot of them, our Maiſter commanded his Gunner to make his leuell, and to ſhoote, which he did, but miſſed them all, at which the for<g ref="char:EOLhyphen"/>moſt of them bore vp apace, for he had the winde of vs, and returned as good as wee ſent, ſo betwixt vs for a great time were a moſt fierce incounter, and hauing aduan<g ref="char:EOLhyphen"/>tage of vs by reaſon of the winde, about ele<g ref="char:EOLhyphen"/>uen or twelue of the clocke they laid vs a<g ref="char:EOLhyphen"/>board
+<pb facs="tcp:17657:4"/>with one of their Shippes, which was of three hundred Tun or thereabouts, and had in her 35. pieces of Ordinance, and a<g ref="char:EOLhyphen"/>bout two hundred and fifty men, the Cap<g ref="char:EOLhyphen"/>taine thereof was one <hi>Walſingam,</hi> which ſeemed by his name to be an Engliſh-man, and Admirall of the Fleet, for ſo it ſignified by the Flagge in his maine top, hauing (as I ſaid) boarded our Ship, he entred on the Lar<g ref="char:EOLhyphen"/>bord quarter, where his men, ſome with ſa<g ref="char:EOLhyphen"/>bells which wee call Fauchins, ſome with hatchets, and ſome with halfe Pikes, where they ſtayd ſome halfe hower or thereabout, tearing vp our naile boords vpon the poop, and the trap hatch, but wee hauing a mur<g ref="char:EOLhyphen"/>therer in the round houſe, kept the Larbord ſide cleere, whilſt our men with the other Ordinance and muſquets plaid vppon their Shippes: yet for all this they paid our Galle<g ref="char:EOLhyphen"/>ry with ſmall ſhot, in ſuch ſort that we ſtood in great danger to yeeld, but at laſt wee ſhot them quite thorough and thorough, and they vs likewiſe, but they being affraid they ſhould haue beene ſunke by vs, bore a head
+<pb facs="tcp:17657:5"/>of our Ship, and as he paſſed along we gaue them a broad ſide, that they were forced to lay by the ley, and to mend his leakes: This fight continued two howers by our glaſſe and better, and ſo neare the ſhoare, that the dwellers therevpon ſaw all the be<g ref="char:EOLhyphen"/>ginning and ending, and what danger wee ſtood in, for vpon the ſhoare ſtood a little houſe, wherein was likewiſe turned a glaſſe all the time during the fight which meaſured the howers as they paſſed, and this was <hi>Wal<g ref="char:EOLhyphen"/>finghams</hi> part.</p>
+            <p>Now for Captaine <hi>Kelleyes</hi> Shippe, that came likewiſe vp with his Flag in the maine top, and another Ship with his Flag in the fore top, which Shippes were at leaſt three hundred tunne apeece, and had in each of them 25. pieces of Ordinance, and about two hundred and fifty men, ſo they laid vs a<g ref="char:EOLhyphen"/>board on the Starbord quarter, and the o<g ref="char:EOLhyphen"/>ther on the Larbord, where entring our ſhip thicke and threefold, with their ſemiters, hatchets, halfe pikes and other weapons put vs in great danger both of the loſte of our
+<pb facs="tcp:17657:5"/>Ship and our liues, for they performed much manhood and many dangerous hazards, amongſt which there was one of their com<g ref="char:EOLhyphen"/>pany, that deſperately went vp into our maine top to fetch downe our Flag, which being ſpied by the Steward of our Ship, pre<g ref="char:EOLhyphen"/>ſently ſhot him with his Muſquet that hee fell headlong into the Sea, leauing the Flag behind him, ſo theſe two ſhips fought with vs with great reſolution, playing vppon vs with their Ordinance and ſmall ſhot, for the ſpace of an hower and a halfe, of whom wee receiued ſome hurt, and likewiſe they of vs, but when they ſaw they could not preuaile, nor any way make vs to yeeld, they bore vp and paſſed from vs to lay their ſhips by the lee to ſtop their leaks, for we had grieuouſly torne and battered them with our great Ordinance, and this was the ſecond attempt they made vppon vs.</p>
+            <p>Now for the third, there came two more of Captaine <hi>Kelleyes</hi> ſhips of two hundred and fifty tunne apeece, that in each of them had 22. pieces of Ordinance, and at the leaſt
+<pb facs="tcp:17657:6"/>two hundred men all well prouided as might bee, which was as wee thought too great a number for vs, being ſo fewe in our ſhippe, but God that was our friend, gaue vs ſuch ſtrength and ſucceſſe that they little preuai<g ref="char:EOLhyphen"/>led againſt vs, for at their firſt comming vp, notwithſtanding all their multitude of men, we ſhot the one of them quight thorough and thorough, and laid him likewiſe by the lee, as wee had done the others before, but the other ſhip remaining, laid vs aboard on the ſtarboard ſide, and in that quarter they entered our ſhippe with their Semiters, Fau<g ref="char:EOLhyphen"/>chions, halfe Pikes and other weapons, run<g ref="char:EOLhyphen"/>ning toe and fro vpon the deck, crying ſtil in the Turkiſh tongue yeeld your ſelues, yeeld your ſelues, promiſing wee ſhould bee well vſed, and haue part of our goods deliuered backe, with ſuch like faire promiſes, but wee giueing no eare vnto them, ſtood ſtiflie in our defence, choſing rather to die, then to yeeld, as it is ſtill the nature and condi<g ref="char:EOLhyphen"/>tion of all Engliſhmen, and beeing thus reſolued, ſome of our men plied our Or<g ref="char:EOLhyphen"/>dinance
+<pb facs="tcp:17657:6"/>againſt them, ſome played with the ſmall ſhot, ſome with other weapons as ſwords, and halfe Pikes and ſuch like, in middeſt of which skirmiſh, it ſo hap<g ref="char:EOLhyphen"/>pened by ill chance that our Shippe was fired, and in great danger to bee loſt and caſt away, had not the Lord in his mer<g ref="char:EOLhyphen"/>cy preſerued vs, and ſent vs meanes hap<g ref="char:EOLhyphen"/>pily to quench it, but now marke the accident, the fier being perceiued by our enemies to burne outragiouſly, and think<g ref="char:EOLhyphen"/>ing that our Shippe would haue therewith beene ſodainly burned to the water, they left vs to our fortunes, falling a ſterne of from vs, and ſo wee put to the ſhoare vn<g ref="char:EOLhyphen"/>der the little houſe, for ſome ſuccour, where wee let an Anchor fall thinkeing to ride there all that night, which wee had no ſooner done, but wee ſaw another Ship beare vpon vs, wherevpon wee were ſore frighted and ſo forced to let our Anchor ſlippe and ſo ſet ſayle to gette better ſuccour, putting into the road betweene
+<pb facs="tcp:17657:7"/>the two little houſes where we lay fiue dayes, mending the bruiſes and leakes of our ſhip: the loſſes we receiued in the aforeſaid fight, were ſixe Men and one Boy, which were killed outright, and there were hurt eyght men and one boy more: but the Lord doth know what damage we put them to, &amp; what number we ſlew in their ſhips.</p>
+            <p>The Maiſter of our Shippe beeing at the Helme, was ſhot twiſe betwixt the legges: And the Chirurgion dreſſing the wounds of one of our men, a Ball of Wildfire fell into his Baſon which hee ſodainly caſt into the Sea, otherwiſe it had greatly indangered vs. The Turkes were aboard and ſounded their Trumpets, yet notwithſtanding, our men aſſaulted them ſo fiercely, that they forced them off, and the Boſon (ſeeing them flye) moſt vndantedly with a whiſtle blourd the<g ref="char:cmbAbbrStroke">̄</g> to the skirmiſh, if ſo they durſt. The Cap<g ref="char:EOLhyphen"/>taines of three of their Shippes were Engliſh men, who tooke part with the Turks thus to rob and ſpoyle vppon the Ocean, their names were <hi>Walſingham, Kelley,</hi> and <hi>Sampſon.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:17657:7"/>
+Vpon the 13 of Ianuary there came aboard certaine Spaniards in the morning betimes, to witnes what hurts wee had receiued, who ſeeing our men dead, went a ſhore with vs, and ſhewed vs where wee might bury them, but as wee were buſie in making their graues and couering the bodies with earth, there came ſayling by a Flemiſh Ship of twelue<g ref="char:EOLhyphen"/>ſcore tunne, which had in it ſome fiue or ſix thouſand pounds, which had beene chaſed with thoſe men of war that had fought with vs before, all which money they brought in along Boate to the ſhoare, and left in the Shippe onelie the men, which were 16. Sai<g ref="char:EOLhyphen"/>lers and 2. Boyes, that afterwards within two daies brought the ſaid ſhipe into the Road, not any thinge at all indangered, God bee praiſed.</p>
+            <p>Vpon the 15 of the ſame Month, when we came from the burying of our men, and had reſted our ſelues in our ſhippe ſome two or three houres, as God would haue it, the wind began to blow a ſtrong gale, and by little and little, grewe to a tirible tempeſt, through
+<pb facs="tcp:17657:8"/>which from Sunday night till Friday in the euening, wee lay in ſuch extremity of wea<g ref="char:EOLhyphen"/>ther, as raine, winde, lightening, and thunder that wee thought wee ſhould neuer haue got cleere from the Road where we lay: during which ſtorme and tempeſt there dyed one of our men, that had beene hurt in the fight, whoſe body wee caſt ouerbord, into the ſea, without any other buriall, and ſo when the wind and ſea a little calmed, wee ſet vp ſaile and came forward: but within three, dayes after wee buried three men more in the Sea, and the ſame afternoone wee arriued in the Road of Callery, and lay at anchor, where againe ſearching our Ship, wee found it rent and torne in foure ſeuerall places, one in the gun-roome, another betweene the deckes, the third in the skereridge, and the fourth in the maiſters round-houſe, ſo in Callery wee mended our Ship, and hired certaine men there to helpe vs to ſtop her leaks, and ha<g ref="char:EOLhyphen"/>uing all thinges moſt fitting for our Voyage homewards, vppon the 30. day of Ianuary wee committed our fortunes againe vnto the
+<pb facs="tcp:17657:8"/>Sea, and ſo leauing Callery wee came fore<g ref="char:EOLhyphen"/>ward with a Frenchman, who was bound to a place called Oreſtone, ſome thir<g ref="char:EOLhyphen"/>ty Leagues from Callery, where after two dayes wee left his company, beeing the firſt day of February, and after that putting fore<g ref="char:EOLhyphen"/>wards ſtill towards England, wee are now by the will of God, moſt ſafely ariued, and our Shippe after ſo many ouer<g ref="char:EOLhyphen"/>paſſed dangers, receiued into the <hi>Thames,</hi> neere <hi>London</hi> to the great ioy and comfort of the Owners thereof.</p>
+            <closer>God bee praiſed.</closer>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>ornate fleur-de-lis</figDesc>
+               </figure>
+            </trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:17657:9"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of ship</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>sinking ship</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:17657:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
